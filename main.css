@@ -48,3 +48,7 @@ body {
         text-decoration: none;
         line-height: 1.5;
     }
+    a:link {
+        text-decoration: none;
+        color: #2f5496;
+      }
