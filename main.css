@@ -1,7 +1,7 @@
 body {
     background-color: lightblue;
 
-    background-image: url("https://media--bucket.s3.amazonaws.com/media/uploads/2022/02/05/image.png");
+    background-image: "images/canadian_hackathon.png";
     background-repeat: no-repeat;
     background-position: right top;
     margin-right: 200px;
