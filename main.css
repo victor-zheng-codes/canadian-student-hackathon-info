@@ -1,31 +1,36 @@
 body {
     background-color: lightblue;
 
-    background-image: url(images/canadian-hackathon.png);
+    background-image: url(images/canadian-hackathon-v2.png);
     background-repeat: no-repeat;
     background-position: right top;
     margin-right: 200px;
     background-attachment: fixed;
+    width: 60%;
   }
   
   .table {
     text-decoration: none;
     font-family: verdana;
-
+    border: 2px solid black;
+    padding: 1%;
   }
 
   .event{
-      padding: 5%;
+    padding: 1%;
+    
   }
 
   h2 {
     color: white;
     font-family: "Lucida Console", Arial, Helvetica, sans-serif;
+    margin-left: 10px;
   }
   
   p {
     font-family: verdana;
     font-size: 20px;
     text-decoration: none;
+    margin-left: 20px;
 
   }
