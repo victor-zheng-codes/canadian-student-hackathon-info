@@ -7,6 +7,8 @@ body {
     margin-right: 200px;
     background-attachment: fixed;
     width: 60%;
+    margin-left: 20px;
+
   }
   
   .table {
@@ -29,12 +31,21 @@ body {
     color:#2f5496;
     font-size: 2em;
   }
+
+  h3 {
+    font-family: verdana;
+    color:#2f5496;
+    padding: 10px;
+    /* margin-left: 20px; */
+
+    font-size: 1.7em;
+  }
   
   p {
     font-family: verdana;
     font-size: 20px;
     text-decoration: none;
-    margin-left: 20px;
+    /* margin-left: 20px; */
     line-height: 1.5;
 
   }
