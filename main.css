@@ -18,10 +18,15 @@ body {
     .event{
         padding: 2%;
         
-    }
+        }
         #eventblurb {
         padding: 10px;
-    }
+        }
+        #image{
+            float:right; 
+            margin:10px; 
+            width:200px
+        }
 
     #logo{ 
         position:fixed; 
