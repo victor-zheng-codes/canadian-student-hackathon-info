@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+
+    background-image: url("https://media--bucket.s3.amazonaws.com/media/uploads/2022/02/05/image.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    background-attachment: fixed;
+  }
+  
+  .table {
+    text-decoration: none;
+    font-family: verdana;
+
+  }
+
+  .event{
+      padding: 5%;
+  }
+
+  h2 {
+    color: white;
+    font-family: "Lucida Console", Arial, Helvetica, sans-serif;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-decoration: none;
+
+  }
