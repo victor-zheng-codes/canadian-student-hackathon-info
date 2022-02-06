@@ -8,3 +8,7 @@ A site to help university and high school students keep up to date with the late
 
 ## Problem Description:
 Ever wondered why 
+
+
+
+Project started as a small idea during UofT Hacks 2022. 
