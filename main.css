@@ -9,8 +9,10 @@ body {
     .table {
         text-decoration: none;
         font-family: verdana;
-        border: 2px solid black;
+        font-size: 1.2em;
+        /* border: 2px solid black; */
         padding: 1%;
+
     }
 
     .event{
@@ -42,7 +44,7 @@ body {
     
     p {
         font-family: verdana;
-        font-size: 20px;
+        font-size: 1.2em;
         text-decoration: none;
         line-height: 1.5;
     }
