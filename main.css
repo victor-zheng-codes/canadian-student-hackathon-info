@@ -1,51 +1,48 @@
 body {
     background-color: lightblue;
+    background-image: linear-gradient(rgb(112, 221, 78), rgb(0, 255, 234),rgb(67, 122, 167));
 
-    background-image: url(images/canadian-hackathon-v2.png);
-    background-repeat: no-repeat;
-    background-position: right top;
-    margin-right: 200px;
-    background-attachment: fixed;
-    width: 60%;
-    margin-left: 20px;
-
-  }
-  
-  .table {
-    text-decoration: none;
-    font-family: verdana;
-    border: 2px solid black;
-    padding: 1%;
-  }
-
-  .event{
-    padding: 2%;
+    width: 65%;
+    float:right;
+    }
     
-  }
-  #eventblurb {
-    padding: 10px;
+    .table {
+        text-decoration: none;
+        font-family: verdana;
+        border: 2px solid black;
+        padding: 1%;
     }
 
-  h2 {
-    font-family: "Lucida Console", Arial, Helvetica, sans-serif;
-    color:#2f5496;
-    font-size: 2em;
-  }
+    .event{
+        padding: 2%;
+        
+    }
+        #eventblurb {
+        padding: 10px;
+    }
 
-  h3 {
-    font-family: verdana;
-    color:#2f5496;
-    padding: 10px;
-    /* margin-left: 20px; */
+    #logo{ 
+        position:fixed; 
+        top:0; 
+        left:0; 
+    } 
 
-    font-size: 1.7em;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
-    text-decoration: none;
-    /* margin-left: 20px; */
-    line-height: 1.5;
+    h2 {
+        font-family: "Lucida Console", Arial, Helvetica, sans-serif;
+        color:#2f5496;
+        font-size: 2em;
+    }
 
-  }
+    h3 {
+        font-family: verdana;
+        color:#2f5496;
+        padding: 10px;
+        font-size: 1.7em;
+    }
+    
+    p {
+        font-family: verdana;
+        font-size: 20px;
+        text-decoration: none;
+        line-height: 1.5;
+    }
